@@ -1,7 +1,7 @@
 # Programa-academia
 bot to notify to the different users of an academy the subjects that have to be paid during the course monthly with notify by sms
 
-##Commands 
+## Commands 
 
 > /get_alumnos: show all students.
 /add_alumno: to add a new student.
